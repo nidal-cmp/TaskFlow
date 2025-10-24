@@ -70,10 +70,10 @@ Follow these steps to run **TaskFlow** locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/taskflow.git
+git clone https://github.com/nidal-cmp/TaskFlow.git
 
 # 2️⃣ Move into the project folder
-cd taskflow
+cd TaskFlow
 
 # 3️⃣ Install dependencies
 npm install
