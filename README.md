@@ -56,11 +56,15 @@ It emphasizes:
 
 ## 🖼 Project Screenshots
 
-| Login Page | Employee Dashboard | Manager Dashboard |
-|-------------|--------------------|--------------------|
-| ![Login Page](assets/screenshots/login.png) | ![Employee Dashboard](assets/screenshots/employee-dashboard.png) | ![Manager Dashboard](assets/screenshots/manager-dashboard.png) |
+Here is the updated section with your correct filenames.
 
-*(Ensure your images are in `assets/screenshots/` and replace filenames as needed.)*
+| Login Page | Employee Dashboard | Manager Overview |
+|-------------|--------------------|--------------------|
+| ![Login Page](https://raw.githubusercontent.com/nidal-cmp/TaskFlow/main/assets/screenshots/login.png) | ![Employee Dashboard](https://raw.githubusercontent.com/nidal-cmp/TaskFlow/main/assets/screenshots/employee-dashboard.png) | ![Manager Overview](https://raw.githubusercontent.com/nidal-cmp/TaskFlow/main/assets/screenshots/manager-overview.png) |
+
+| Create Task Modal | Employee Landing Page | Manager Landing Page |
+|-------------|--------------------|--------------------|
+| ![Create Task](https://raw.githubusercontent.com/nidal-cmp/TaskFlow/main/assets/screenshots/create-task.png) | ![Employee Landing](https://raw.githubusercontent.com/nidal-cmp/TaskFlow/main/assets/screenshots/employee-landing.png) | ![Manager Landing](https://raw.githubusercontent.com/nidal-cmp/TaskFlow/main/assets/screenshots/manager-landing.png) |
 
 ---
 
@@ -70,7 +74,7 @@ Follow these steps to run **TaskFlow** locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/nidal-cmp/TaskFlow.git
+git clone [https://github.com/nidal-cmp/TaskFlow.git](https://github.com/nidal-cmp/TaskFlow.git)
 
 # 2️⃣ Move into the project folder
 cd TaskFlow
@@ -80,4 +84,3 @@ npm install
 
 # 4️⃣ Start the development server
 npm run dev
-
